@@ -1,0 +1,1 @@
+val ktorVersion by extra("2.3.2")
